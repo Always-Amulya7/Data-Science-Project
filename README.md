@@ -1,49 +1,12 @@
+## 🚀 Project Overview
 
-# Customer Churn Prediction 📊
+This repository features two impactful machine learning projects designed to solve real-world business problems through data-driven intelligence:
 
-### 🚀 Overview
----
+### 📉 Customer Churn Prediction
+The **Customer Churn Prediction** project helps businesses identify customers who are likely to discontinue their services. By detecting churn risks early, organizations can implement targeted retention strategies, improve customer satisfaction, and minimize revenue loss. This project demonstrates how predictive modeling can directly support customer relationship management and long-term business growth.
 
-Customer churn is a significant challenge for businesses, especially in the competitive banking sector. This project leverages Machine Learning to predict whether a customer is likely to leave the bank based on their profile and behavior.
+### ⏱️ ETA (Estimated Time of Arrival) Prediction
+The **ETA Prediction** project focuses on forecasting accurate arrival or delivery times using historical trends, traffic patterns, and operational data. Accurate ETA predictions help businesses optimize logistics, improve resource planning, enhance service reliability, and build stronger customer trust through timely updates.
 
-### 🛠️ Technologies Used
----
-- Python
-
-- Pandas
-
-- NumPy
-
-- Matplotlib & Seaborn
-
-- Scikit-learn
-
-- Random Forest Classifier
-
-### 🎯 Project Goals
----
-- Preprocess and clean customer data.
-
-- Build a Random Forest Classifier model.
-
-- Evaluate model performance with Accuracy Score and Confusion Matrix.
-
-- Provide a user-friendly interface for customer churn prediction.
-
-### 📊 Key Features
----
-- Customer Data Input: Users can input customer details via a form.
-
-- Churn Prediction: Predict if a customer will churn based on their details.
-
-- Model Performance Metrics: Accuracy score, confusion matrix, and feature importance.
-
-- Visualization: Insights via heatmaps and feature importance graphs.
-
-----
-
-### Reach Out
-
-- Contact Email:amulyashrivastava7@gmail.com
-
-- LinkedIn: https://www.linkedin.com/in/amulya-shrivastava-11a0a9288/
+### 💡 Business Value
+Together, these projects highlight the practical power of **Machine Learning**, **Predictive Analytics**, and **Data Science** in transforming raw data into actionable insights, smarter decisions, and measurable business impact.
